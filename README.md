@@ -17,5 +17,5 @@ The script reads the KML file and replaces the AMSL with AGL so it allows the UA
 - install python
 - create a mission in QgroundControl
 - export the kml file
-- start the script with python scriptname.py mission.kml
-- a new kml file will be created and it can be imported to Autel Explorer 
+- start the script with "python jubilant-terrainfollow.py yourkmlfile.kml"
+- a new kml file will be created in the same directory, called "yourkmlfile_new.kml" and it can be imported to Autel Explorer 
