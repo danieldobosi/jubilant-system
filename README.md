@@ -11,6 +11,7 @@ The script reads the KML file and replaces the AMSL with AGL so it allows the UA
 - not tested
 - after importing the kml to Autel Explorer v2, the app adds 3 additional waypoints to the end of the mission with "0" height. Please remove these last 3 waypoints
 - use it on your own risk
+- thanks ChatGPT for the script!
   
 # how to use:
 - install python
